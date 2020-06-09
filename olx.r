@@ -8,7 +8,7 @@
 #além disso é criado um arquivo em .csv em repositorio local para analise 
 #posterior. 
 
-#Script ainda em construção
+#Script ainda em construção( se forem usar ferifique antes de usa-lo)
 
 #Inicio
 
@@ -69,3 +69,5 @@ dados=unique(dados)
 
 #escrevendo dados em um arquivo .csv local
 write_csv(dados,"oferta de motos na OLX.csv")
+
+#FIM
