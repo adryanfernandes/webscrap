@@ -8,4 +8,8 @@ IMAGINE PODER REALIZAR TAREFAS MASIVAMENTE COMPLEXAS APENAS COM UM CLICK
 com abrangncia nacional e atuação em diversos paises como India, Paquistão, Nigeria, Quenia e muitos outros^.
 Este script em particular cria um arquivo em csv com informações de motos para venda no estado do Rio Grande do Norte.
 
+O segundo projeto é referente a analise de informações do sistema de gestão da texas controls
+criando um banco de dados para dashbords
+vai ser lindo, espero que seja
+
 
